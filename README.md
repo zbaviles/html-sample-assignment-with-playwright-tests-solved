@@ -41,6 +41,6 @@ This assignment should prove that a student is able to:
 - [x] Add HTML Boilerplate to the document
 - [x] The Document's head should have a meta tag that defines the charset
 - [x] The Document's head should have a responsive meta tag set
-- [ ] Set the document title to be "Sample project"
+- [x] Set the document title to be "Sample project"
 - [ ] Set the page heading to be "Sample project"
 - [ ] Add a paragraph of text (20 words at least). You can use random text for the paragraph content.

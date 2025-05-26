@@ -30,10 +30,10 @@ This assignment should prove that a student is able to:
   - [x] Use `npm run test` to run all tests in the terminal
   - [x] (Optional) Use `npm run test-ui` to run all the tests with GUI
   - [x] (Optional) Use `npm run show-report` to see the latest report in the browser
-- [ ] VSCode IDE MUST have 0 code problems listed (spelling problems are fine)
-- [ ] The code MUST be formatted with Prettier
-- [ ] Push the changes to the Github repo, when finished.
-- [ ] Submit a txt file with the Github repo url.
+- [x] VSCode IDE MUST have 0 code problems listed (spelling problems are fine)
+- [x] The code MUST be formatted with Prettier
+- [x] Push the changes to the Github repo, when finished.
+- [x] Submit a txt file with the Github repo url.
 
 ## Specific requirements
 

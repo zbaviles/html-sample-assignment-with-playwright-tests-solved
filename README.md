@@ -38,7 +38,7 @@ This assignment should prove that a student is able to:
 ## Specific requirements
 
 - [x] Create an html file with the name of "index" in the root of the project
-- [ ] Add HTML Boilerplate to the document
+- [x] Add HTML Boilerplate to the document
 - [ ] The Document's head should have a meta tag that defines the charset
 - [ ] The Document's head should have a responsive meta tag set
 - [ ] Set the document title to be "Sample project"
